@@ -7,6 +7,9 @@ const Test = () => {
         console.log("feat 1 log 3");
 
     }
+    const feat2 = () => {
+        console.log("feat 2");
+    }
     return (
         <div>Test</div>
     )
